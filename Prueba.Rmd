@@ -1,0 +1,63 @@
+---
+title: "Costos Operativos del Sistema"
+author: "Dana"
+date: "2024-03-27"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+# Cuadro comparativo de servidores de PC
+
+
+# Cuadro comparativo de servidores de **[MESSI]**
+
+## Tabla
+
+| N° | Tipo de servidor | Descripción | Ventajas | Desventajas | Precio estimado | Uso recomendado |
+|---|---|---|---|---|---|---|
+| 1 | Servidor de archivos | Almacena y administra archivos para que los usuarios de la red puedan acceder a ellos. | 1. **Costo-efectivo** 2. **Fácil de configurar** 3. **Escalable** | 1. **Puede ser lento para grandes cantidades de datos** 2. **No es ideal para aplicaciones de alto rendimiento** | $50 - $500 | 1. **Compartir archivos** 2. **Almacenamiento de datos** 3. **Respaldo** |
+| 2 | Servidor de aplicaciones | Aloja y ejecuta aplicaciones para que los usuarios de la red puedan acceder a ellas. | 1. **Mejora el rendimiento de las aplicaciones** 2. **Facilita la administración de las aplicaciones** 3. **Escalable** | 1. **Más costoso que un servidor de archivos** 2. **Requiere más experiencia técnica para configurar** | $500 - $5000 | 1. **Aplicaciones de misión crítica** 2. **Aplicaciones que requieren alto rendimiento** 3. **Aplicaciones que necesitan ser accesibles desde cualquier lugar** |
+| 3 | Servidor de correo electrónico | Envía, recibe y administra correo electrónico para los usuarios de la red. | 1. **Confiable** 2. **Fácil de usar** 3. **Escalable** | 1. **Puede ser costoso para grandes cantidades de usuarios** 2. **No es ideal para aplicaciones de correo electrónico colaborativo** | $500 - $5000 | 1. **Correo electrónico** 2. **Comunicación** 3. **Colaboración** |
+| 4 | Servidor web | Aloja sitios web y aplicaciones web para que los usuarios de la red puedan acceder a ellos. | 1. **Costo-efectivo** 2. **Fácil de configurar** 3. **Escalable** | 1. **Puede ser lento para sitios web con mucho tráfico** 2. **No es ideal para aplicaciones web de alto rendimiento** | $50 - $500 | 1. **Sitios web** 2. **Aplicaciones web** 3. **Comercio electrónico** |
+| 5 | Servidor de base de datos | Almacena y administra bases de datos para que las aplicaciones puedan acceder a ellas. | 1. **Mejora el rendimiento de las bases de datos** 2. **Facilita la administración de las bases de datos** 3. **Escalable** | 1. **Más costoso que un servidor de archivos** 2. **Requiere más experiencia técnica para configurar** | $1000 - $10000 | 1. **Aplicaciones que requieren acceso a bases de datos** 2. **Bases de datos grandes** 3. **Bases de datos de alto rendimiento** |
+
+## Notas
+
+* Esta es una comparación general y las características específicas pueden variar según el servidor.
+* Hay muchos otros tipos de servidores disponibles, como servidores de juegos, servidores de virtualización y servidores de seguridad.
+* El tipo de servidor que necesita dependerá de sus necesidades específicas.
+
+## Recursos adicionales
+
+* Guía para principiantes de servidores: https://m.youtube.com/watch?v=_3HIavCkIRs
+* Tipos de servidores: https://www.docusign.com/es-mx/blog/tipos-de-servidores
+* Cómo elegir el servidor adecuado: https://www.s-vi.com/post/como-elegir-el-servidor-adecuado-para-su-empresa
+
+**Para personalizar este cuadro comparativo para su empresa:**
+
+* Reemplace **[Nombre de tu empresa]** por el nombre real de su empresa.
+* **Agregue o elimine filas** según los tipos de servidores que ofrece su empresa.
+* **Modifique la información en las columnas** para que coincida con las características y precios de sus servidores.
+* **Agregue su propio logotipo** y otra información de marca al encabezado del cuadro.
+* **Asegúrese de que los precios sean precisos y actualizados.**
+* **Proporcione enlaces a recursos adicionales** que puedan ser útiles para sus clientes.
+
+**Ejemplo:**
+
+* Si su empresa ofrece un servidor de almacenamiento en la nube, puede agregar una fila para este tipo de
+
+
+
+
+
+ 
+
+
